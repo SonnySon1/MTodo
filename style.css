@@ -1,0 +1,12 @@
+body{
+    color: white !important;
+}
+.todo_bg_primary{
+    background-color: #6e2bf1 !important;
+}
+.todo_bg_dark_secondary{
+    background-color: #212529 !important;
+}
+.todo_border_gray{
+    border: 2px solid #2b3034 !important;
+}
